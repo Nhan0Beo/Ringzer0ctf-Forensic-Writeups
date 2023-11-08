@@ -76,7 +76,6 @@ View my publicly-auditable identity here: https://keybase.io/mrun1k0d3r
 
 ==================================================================
 
-```
 FLAG-7A7i0V2438xL95z2X2Z321p30D8T433Z
 
-The Flag is `FLAG-30SI9RR202HG69St6Y8ZU77xyq`
+```
